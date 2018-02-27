@@ -1,0 +1,1 @@
+alert("The sheriff of piltover");
